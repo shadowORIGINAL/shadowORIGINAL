@@ -9,15 +9,15 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering graduate with experience in both front-end and back-end development. I enjoy creating clean, practical, and user-centric systems that solve real-world problems.
+I am a Software Engineering graduate with experience in both front-end and back-end development. I enjoy building clean, practical, and user-centric systems that solve real-world problems.
 
-I am continuously learning and improving through hands-on development, and I am currently exploring machine learning and modern software engineering practices.
+I am continuously learning and improving through hands-on projects, and I am currently exploring machine learning and modern software engineering practices.
 
 ---
 
 ## 🌍 Contact
 
-- 📍 Sri Lanka  
+- 📍 Sri Lanka
 - 📧 **wickramasinghakalana3@gmail.com**
 
 ---
@@ -25,7 +25,7 @@ I am continuously learning and improving through hands-on development, and I am 
 ## 🚀 Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,mysql,postgresql,vscode,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,mysql,postgresql,vscode,git,github" alt="Skills and tools" />
 </p>
 
 ---
@@ -43,16 +43,7 @@ I am continuously learning and improving through hands-on development, and I am 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/shadowORIGINAL">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=shadowORIGINAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Kalana's GitHub Stats"
-    />
-  </a>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/shadowORIGINAL">
@@ -66,8 +57,8 @@ I am continuously learning and improving through hands-on development, and I am 
 <p align="center">
   <a href="https://github.com/shadowORIGINAL?tab=repositories">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowORIGINAL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      alt="Top Languages"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowORIGINAL&theme=tokyonight"
+      alt="Kalana's GitHub Profile Summary"
     />
   </a>
 </p>
