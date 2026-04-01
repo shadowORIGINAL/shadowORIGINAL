@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Kalana Wickramasinghe</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
+<p align="center">
+  I enjoy building efficient, user-focused applications and improving my skills through practical projects.
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering graduate with strong experience in both front-end and back-end development. I enjoy building efficient, user-centric systems and continuously improving my skills through real-world projects.
+I am a Software Engineering graduate with experience in both front-end and back-end development. I enjoy creating clean, practical, and user-centric systems that solve real-world problems.
 
-I am passionate about solving practical problems using technology and always eager to learn new tools, frameworks, and modern development practices.
+I am continuously learning and improving through hands-on development, and I am currently exploring machine learning and modern software engineering practices.
 
 ---
 
-## 🌍 Location & Contact
+## 🌍 Contact
 
 - 📍 Sri Lanka  
-- 📧 wickramasinghakalana3@gmail.com  
-- 🧠 Currently learning: Machine Learning  
+- 📧 **wickramasinghakalana3@gmail.com**
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,mysql,postgresql,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,mysql,postgresql,vscode,git,github" alt="Skills" />
 </p>
 
 ---
@@ -30,11 +33,11 @@ I am passionate about solving practical problems using technology and always eag
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/shadowORIGINAL">
-    <img src="https://img.shields.io/badge/GitHub-shadowORIGINAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/shadowORIGINAL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-shadowORIGINAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kalanacoding/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalana%20Wickramasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kalanacoding/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalana%20Wickramasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
@@ -43,15 +46,30 @@ I am passionate about solving practical problems using technology and always eag
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowORIGINAL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <a href="https://github.com/shadowORIGINAL">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=shadowORIGINAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      alt="Kalana's GitHub Stats"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadowORIGINAL&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/shadowORIGINAL">
+    <img
+      src="https://streak-stats.demolab.com?user=shadowORIGINAL&theme=tokyonight&hide_border=true"
+      alt="Kalana's GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowORIGINAL&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/shadowORIGINAL?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowORIGINAL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
@@ -64,4 +82,4 @@ A motivated and dedicated software engineer with a strong foundation in full-sta
 
 ## ⚡ Fun Fact
 
-I enjoy turning complex problems into simple, clean, and efficient solutions 🚀
+I enjoy turning complex problems into simple, clean, and efficient solutions.
