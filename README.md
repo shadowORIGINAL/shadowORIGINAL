@@ -5,34 +5,24 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering graduate with hands-on experience in both front-end and back-end development. I enjoy building efficient, user-focused systems and continuously improving my skills through practical projects.  
+I am a Software Engineering graduate with strong experience in both front-end and back-end development. I enjoy building efficient, user-centric systems and continuously improving my skills through real-world projects.
 
-I am passionate about solving real-world problems through technology and always eager to learn new concepts and tools in software engineering.
+I am passionate about solving practical problems using technology and always eager to learn new tools, frameworks, and modern development practices.
 
 ---
 
 ## 🌍 Location & Contact
 
-- 📍 Based in Sri Lanka  
-- 📧 Email: **wickramasinghakalana3@gmail.com**  
-- 🧠 Currently learning: **Machine Learning**
+- 📍 Sri Lanka  
+- 📧 wickramasinghakalana3@gmail.com  
+- 🧠 Currently learning: Machine Learning  
 
 ---
 
 ## 🚀 Skills & Technologies
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,mysql,postgresql,vscode" />
 </p>
 
 ---
@@ -40,12 +30,12 @@ I am passionate about solving real-world problems through technology and always 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/shadowORIGINAL" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/kalanacoding/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
+  <a href="https://github.com/shadowORIGINAL">
+    <img src="https://img.shields.io/badge/GitHub-shadowORIGINAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kalanacoding/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalana%20Wickramasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -53,21 +43,15 @@ I am passionate about solving real-world problems through technology and always 
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/shadowORIGINAL">
-<img src="https://github-readme-stats.vercel.app/api?username=shadowORIGINAL&show_icons=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowORIGINAL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/shadowORIGINAL">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowORIGINAL&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
-</a>
+  <img src="https://streak-stats.demolab.com?user=shadowORIGINAL&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/shadowORIGINAL">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowORIGINAL&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowORIGINAL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,3 +59,9 @@ I am passionate about solving real-world problems through technology and always 
 ## 💡 Summary
 
 A motivated and dedicated software engineer with a strong foundation in full-stack development, focused on building scalable and user-centric applications while continuously learning and improving.
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex problems into simple, clean, and efficient solutions 🚀
